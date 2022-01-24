@@ -29,7 +29,7 @@ The model saved in sparse_smoother_trainedOn_nexus4_model.pt has two outputs, th
 Run PhoneCrossFilterTrain.py to train improved filters. 
 These are train to reproduce the estimations made by the smoothers trained in the previous section. 
 At the end of training figure 4 in "Enhancing Causal Estimation through Unlabeled Offline Data" is reproduced.
-Dedicated estimators are saved for each smartphone to files such as "".
+Dedicated estimators are saved for each smartphone to files such as "sparse_improvedFilterFor_nexus4_trainedOnSmootherOf_s3mini_model.pt".
 
 
 
