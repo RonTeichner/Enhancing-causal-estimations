@@ -31,6 +31,9 @@ These are train to reproduce the estimations made by the smoothers trained in th
 At the end of training figure 4 in "Enhancing Causal Estimation through Unlabeled Offline Data" is reproduced.
 Dedicated estimators are saved for each smartphone to files such as "sparse_improvedFilterFor_nexus4_trainedOnSmootherOf_s3mini_model.pt".
 
+### Python Environment
+Install all required library using environment.yml
+
 
 
 
